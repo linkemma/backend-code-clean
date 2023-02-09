@@ -1,0 +1,12 @@
+C:\Users\AMILCAR\source\repos\PruebaFullStack\BackendPrueba\Tienda.Entities\bin\Debug\net6.0\Tienda.Entities.deps.json
+C:\Users\AMILCAR\source\repos\PruebaFullStack\BackendPrueba\Tienda.Entities\bin\Debug\net6.0\Tienda.Entities.dll
+C:\Users\AMILCAR\source\repos\PruebaFullStack\BackendPrueba\Tienda.Entities\bin\Debug\net6.0\Tienda.Entities.pdb
+C:\Users\AMILCAR\source\repos\PruebaFullStack\BackendPrueba\Tienda.Entities\obj\Debug\net6.0\Tienda.Entities.csproj.AssemblyReference.cache
+C:\Users\AMILCAR\source\repos\PruebaFullStack\BackendPrueba\Tienda.Entities\obj\Debug\net6.0\Tienda.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMILCAR\source\repos\PruebaFullStack\BackendPrueba\Tienda.Entities\obj\Debug\net6.0\Tienda.Entities.AssemblyInfoInputs.cache
+C:\Users\AMILCAR\source\repos\PruebaFullStack\BackendPrueba\Tienda.Entities\obj\Debug\net6.0\Tienda.Entities.AssemblyInfo.cs
+C:\Users\AMILCAR\source\repos\PruebaFullStack\BackendPrueba\Tienda.Entities\obj\Debug\net6.0\Tienda.Entities.csproj.CoreCompileInputs.cache
+C:\Users\AMILCAR\source\repos\PruebaFullStack\BackendPrueba\Tienda.Entities\obj\Debug\net6.0\Tienda.Entities.dll
+C:\Users\AMILCAR\source\repos\PruebaFullStack\BackendPrueba\Tienda.Entities\obj\Debug\net6.0\refint\Tienda.Entities.dll
+C:\Users\AMILCAR\source\repos\PruebaFullStack\BackendPrueba\Tienda.Entities\obj\Debug\net6.0\Tienda.Entities.pdb
+C:\Users\AMILCAR\source\repos\PruebaFullStack\BackendPrueba\Tienda.Entities\obj\Debug\net6.0\ref\Tienda.Entities.dll
